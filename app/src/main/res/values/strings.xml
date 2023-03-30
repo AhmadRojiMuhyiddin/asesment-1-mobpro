@@ -3,5 +3,4 @@
     <string name="introCDR">CDR , CDR adalah aplikasi untuk convert mata uang dari dollar ke rupiah. Ayo coba sekarang</string>
     <string name="dollar_hint">Dollar ($)</string>
     <string name="convert">Convert</string>
-    <string name="rp">Rupiah : %1$.3f</string>
 </resources>
