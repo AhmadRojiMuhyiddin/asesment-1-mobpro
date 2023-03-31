@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.text.TextUtils
 import android.widget.Toast
 import org.deif3120.convertdollartorupiah.databinding.ActivityMainBinding
+import java.text.DecimalFormat
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
@@ -24,7 +25,8 @@ class MainActivity : AppCompatActivity() {
                 }
                 else -> {
                     rp = dollar.toInt() * 15041
-                    binding.tvRupiah.text =rp.toString()
+                    val df = DecimalFormat("#,##0.00")
+                    binding.tvRupiah.text=df.format(rp)
 
                 }
             }
