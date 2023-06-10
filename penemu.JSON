@@ -1,0 +1,31 @@
+[
+    {
+         "judul" : "Anders Celsius",
+         "tgl" : "27 November 1701 Meninggal 25 April 1744",
+         "imageId" : "penemu_celcius",
+         "tempat" : "Swedia",
+         "deskripsi" : "Anders Celsius (lahir di Uppsala, Swedia, 27 November 1701 – meninggal di Uppsala, Swedia, 25 April 1744 pada umur 42 tahun) adalah seorang astronom Swedia. Celsius lahir di Ovanåker di Swedia. Dia adalah seorang profesor astronomi pada Universitas Uppsala dari 1730 hingga 1744, namun melakukan perjalanan dari 1732 hingga 1735 mengunjungi observatorium terkenal di Jerman, Italia dan Perancis.Celsius adalah salah satu pendiri Observatorium Astronomi Uppsala pada 1741. Namanya paling dikenal sebagai pengusul skala Celsius pada tahun 1742. Dia meninggal karena penyakit tuberkulosis di Uppsala."
+     
+     },
+     {
+         "judul" : "Daniel Gabriel Fahrenheit",
+         "tgl" : "24 May 1686 Meninggal 16 September 1736",
+         "imageId" : "penemu_fahrenheit",
+         "tempat" : "German",
+         "deskripsi" : "Daniel Gabriel Fahrenheit (24 Mei 1686 - 16 September 1736) adalah seorang Belanda-Jerman-Polandia, merupakan seorang fisikawan, insinyur, dan kaca blower yang paling dikenal atas penemuan termometer merkuri (1714), dan untuk mengembangkan suhu Skala sekarang bernama setelah dia. Suhu terendah yang bisa dicapai dengan menyiapkan campuran frigorific es, air, dan amonium klorida (garam), dan menunggu untuk itu untuk mencapai keseimbangan. Termometer kemudian ditempatkan ke dalam campuran dan cairan dalam termometer diizinkan untuk turun ke titik terendah. Membaca termometer ditetapkan sebagai 0 ° F. Titik referensi kedua terpilih sebagai pembacaan termometer ketika ditempatkan di air ketika es hanya membentuk di permukaan. Hal ini ditugaskan sebagai 32 ° F. Titik kalibrasi ketiga, diambil sebagai 96 ° F, terpilih sebagai bacaan termometer ketika instrumen ditempatkan di bawah lengan atau di mulut."
+     },
+     {
+         "judul" : "William Thomson",
+         "tgl" : "26 Juni 1824 Meninggal 1907",
+         "imageId" : "penemu_kelvin",
+         "tempat" : "Belfast, Irlandia, Britania Raya ",
+         "deskripsi" : "Lord Kelvin adalah seorang fisikawan dan matematikawan Britania (1824-1907). Lahir dengan nama William Thomson di Belfast. Kelvin adalah orang pertama yang mengusulkan skala mutlak dari suhu. Studinya terhadap teori Carnot menuntunnya ke ide bahwa kalor tidak pernah berpindah secara spontan dari benda bersuhu rendah ke benda bersuhu tinggi, teori ini dikenal sebagai hukum kedua termodinamika. Skala Kelvin (simbol: K) adalah skala suhu di mana nol absolut didefinisikan sebagai 0 K. Satuan untuk skala Kelvin adalah kelvin (lambang K), dan merupakan salah satu dari tujuh unit dasar SI. Satuan kelvin didefinisikan oleh dua fakta: nol kelvin adalah nol absolut (ketika gerakan molekuler berhenti, dalam termodinamika), dan satu kelvin adalah pecahan 1/273,16 dari suhu termodinamik triple point air (0,01 °C). Skala suhu Celsius kini didefinisikan berdasarkan kelvin."
+     },
+     {
+         "judul" : "René Antoine Ferchault de Réaumur",
+         "tgl" : "28 Februari 1683",
+         "imageId" : "17 Oktober 1757",
+         "tempat" : "Perancis",
+         "deskripsi" : "René Antoine Ferchault de Réaumur (pengucapan bahasa Perancis: [ʁe.o.myːʁ], 28 Februari 1683 La Rochelle – 17 Oktober 1757 Saint-Julien-du-Terroux) adalah ilmuwan Perancis yang memiliki kontribusi di berbagai bidang, khususnya bidang entomologi. Ia adalah ilmuwan yang memperkenalkan skala suhu Réaumur."
+     }
+ ]
