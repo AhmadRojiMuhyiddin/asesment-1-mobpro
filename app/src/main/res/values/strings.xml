@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assemsent 2 - Konversi Suhu</string>
+    <string name="app_name">Assemsent 3 - Konversi Suhu</string>
     <string name="convert">Masukkan Data Celcius</string>
     <string name="suhu1">Celcius ke Fahrenheit</string>
     <string name="suhu2">Celcius ke Reamur</string>
@@ -36,6 +36,12 @@
     <string name="farenhit">Farenhit</string>
     <string name="kelvin">Kelvin</string>
     <string name="reamur">Reamur</string>
+    <string name="channel_name">Updater</string>
+    <string name="message">%1$s diklik!</string>
+    <string name="notif_title">Ada Penemu baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+    <string name="channel_desc">Update data Budaya otomatis</string>
     <string name="copyright">Aplikasi MySuhu adalah aplikasi konversi suhu dari satuan suhu Celcius Celcius (°C), Kelvin (K), Fahrenheit (°F), Reamur (°R).</string>
     <string name="share_data">Share Data</string>
+    <string name="koneksi_error">Koneksi Error</string>
 </resources>

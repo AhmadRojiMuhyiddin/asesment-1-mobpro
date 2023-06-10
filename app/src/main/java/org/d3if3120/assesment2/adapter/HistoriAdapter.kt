@@ -7,10 +7,10 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import org.d3if3120.assesment2.R
-import org.d3if3120.assesment2.databinding.ItemHistoriBinding
 import org.d3if3120.assesment2.db.SuhuEntity
 import org.d3if3120.assesment2.model.hitungKonversiSuhu
+import org.d3if3120.assesment2.R
+import org.d3if3120.assesment2.databinding.ItemHistoriBinding
 import java.text.SimpleDateFormat
 import java.util.*
 

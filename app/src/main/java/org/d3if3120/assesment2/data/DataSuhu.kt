@@ -1,7 +1,7 @@
 package org.d3if3120.assesment2.data
 
-import org.d3if3120.assesment2.R
 import org.d3if3120.assesment2.model.ModelSuhu
+import org.d3if3120.assesment2.R
 
 class DataSuhu {
     fun loadDataSuhu():List<ModelSuhu>{

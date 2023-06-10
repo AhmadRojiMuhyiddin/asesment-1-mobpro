@@ -11,27 +11,27 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="20dp"
         android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/kategoriTextView"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="20 April 2022"/>
+        tools:text="20 April 2022" />
 
     <TextView
         android:id="@+id/kategoriTextView"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
+        android:layout_width="64dp"
+        android:layout_height="58dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
-        android:background="@drawable/circle_background"
+        android:background="@drawable/logocelcius"
         android:gravity="center"
         android:textColor="@color/white"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="I"/>
+        tools:text="I" />
 
     <TextView
         android:id="@+id/bmiTextView"
@@ -41,15 +41,18 @@
         app:layout_constraintStart_toStartOf="@+id/tanggalTextView"
         app:layout_constraintTop_toBottomOf="@+id/tanggalTextView"
         tools:text="Suhu Celcius" />
+
     <TextView
         android:id="@+id/dataTextView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginStart="112dp"
         android:layout_marginTop="4dp"
         android:layout_marginBottom="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_chainStyle="spread"
         app:layout_constraintStart_toStartOf="@+id/tanggalTextView"
         app:layout_constraintTop_toBottomOf="@+id/bmiTextView"
+        app:layout_constraintVertical_bias="0.0"
         tools:text="Hasil Convert Dari Celcius " />
 </androidx.constraintlayout.widget.ConstraintLayout>
